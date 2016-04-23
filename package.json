@@ -1,0 +1,27 @@
+{
+  "name": "mocha_sample",
+  "version": "1.0.0",
+  "description": "Mocha Sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tocology/mochaSample.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "tocology <hwangjun7777@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tocology/mochaSample/issues"
+  },
+  "homepage": "https://github.com/tocology/mochaSample#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
